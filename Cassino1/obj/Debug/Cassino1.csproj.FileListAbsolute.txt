@@ -1,0 +1,10 @@
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\obj\Debug\Cassino1.csproj.AssemblyReference.cache
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\obj\Debug\Cassino1.Properties.Resources.resources
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\obj\Debug\Cassino1.csproj.GenerateResource.cache
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\obj\Debug\Cassino1.csproj.CoreCompileInputs.cache
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\bin\Debug\Cassino1.exe.config
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\bin\Debug\Cassino1.exe
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\bin\Debug\Cassino1.pdb
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\obj\Debug\Cassino1.exe
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\obj\Debug\Cassino1.pdb
+C:\Users\ra2457038\Source\Repos\Cassino1\Cassino1\obj\Debug\Cassino.Form1.resources
