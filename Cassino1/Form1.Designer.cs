@@ -48,9 +48,9 @@ namespace Cassino
             this.BtnSpin.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnSpin.Location = new System.Drawing.Point(12, 259);
             this.BtnSpin.Name = "BtnSpin";
-            this.BtnSpin.Size = new System.Drawing.Size(312, 87);
+            this.BtnSpin.Size = new System.Drawing.Size(300, 95);
             this.BtnSpin.TabIndex = 0;
-            this.BtnSpin.Text = "Girar";
+            this.BtnSpin.Text = "Rodar";
             this.BtnSpin.UseVisualStyleBackColor = true;
             this.BtnSpin.Click += new System.EventHandler(this.BtnSpin_Click);
             // 
@@ -118,7 +118,7 @@ namespace Cassino
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.ClientSize = new System.Drawing.Size(336, 555);
+            this.ClientSize = new System.Drawing.Size(350, 550);
             this.Controls.Add(this.chbVitorias);
             this.Controls.Add(this.lbxUltimos);
             this.Controls.Add(this.lblN3);
